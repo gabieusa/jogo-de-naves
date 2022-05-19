@@ -11,9 +11,12 @@ Projeto produzido por um bootcamp pela [Digital Innovation One](https://digitali
 Neste projeto,  um jogo da nave utilizando HTML, CSS e Javascript.
 Intenção e você jogar, atirando que ganha pontuações.
 
-Caso não atire corretamente perde vidas e Sempre atirar no inimigo o que vem ao contrário,
+Caso não atire corretamente perde vidas e sempre atirar no inimigo o que vem ao contrário.
+
 O tempo diminiui a medida que perde a vida e se não atirar gera explosões, não sendo ágil nesse jogo você perde e então GAME OVER...
+
 Você pode reiniciar sempre esse desafio.
+
 Espero que curta :)
 
 
