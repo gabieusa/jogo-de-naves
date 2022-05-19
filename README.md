@@ -9,6 +9,15 @@ Projeto produzido por um bootcamp pela [Digital Innovation One](https://digitali
 # Descrição do projeto
 
 Neste projeto,  um jogo da nave utilizando HTML, CSS e Javascript.
+
+Tecla W para movimentar o helicoptero para cima
+
+Tecla S para movimentar o helicoptero para baixo
+
+Tecla D para atirar muito
+
+Se demorar ou perder vidas a bateria parte de cima do jogo encerra.
+
 Intenção e você jogar, atirando que ganha pontuações.
 
 Caso não atire corretamente perde vidas e sempre atirar no inimigo o que vem ao contrário.
