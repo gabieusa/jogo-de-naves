@@ -32,4 +32,4 @@ Espero que curta :)
 
 # Para rodar meu projeto
 
-Para executarmos o projeto no GOOGLE CHROME, basta apenas abrir o link: https://gabieusa.github.io/jogo-de-naves/
+Para executarmos o projeto, basta apenas abrir o link: https://gabieusa.github.io/jogo-de-naves/
